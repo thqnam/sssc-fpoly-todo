@@ -1,0 +1,15 @@
+.create-modal__content {
+  .sq-input {
+    width: 100%;
+  }
+}
+
+.create-modal__buttons {
+  width: 100%;
+  display: flex;
+  gap: 12px;
+
+  button {
+    flex-grow: 1;
+  }
+}

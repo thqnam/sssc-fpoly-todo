@@ -1,0 +1,12 @@
+.todo-list {
+  display: flex;
+  width: 100%;
+  gap: 24px;
+
+  &__column {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 12px;
+  }
+}
